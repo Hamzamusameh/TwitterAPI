@@ -1,6 +1,5 @@
 import tweepy as tp
 
-
 class TweepyHelper:
     def __init__(self, consumerKey, consumerSecret, accessToken, accessTokenSecret, tweetBody):
         self.consumerKey = consumerKey
